@@ -199,19 +199,19 @@ manish@cloud:~$ philosophy
 
 ---
 
-# 📈 GitHub Analytics
-
+### 🏆 GitHub Achievements
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mk3-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk3-gif&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em"
-  />
+  <img src="https://img.shields.io/badge/Profile-Developer-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Enthusiast-orange?style=for-the-badge"/>
 </p>
+
+📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mk3-gif&theme=tokyo-night&bg_color=0a0e1a&color=FF9900&line=6ee7f7&point=f5576c&area=true&hide_border=true"/>
+🔥 Streak Statistics
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk3-gif&theme=tokyonight&hide_border=true&ring=FF9900&fire=f5576c&currStreakLabel=6ee7f7"/> </p>
+📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/FF9900/mk3-gif" alt="Contribution Calendar" width="100%"/>
 
 ---
 

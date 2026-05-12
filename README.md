@@ -215,27 +215,6 @@ manish@cloud:~$ philosophy
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mk3-gif&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mk3-gif&theme=tokyo-night&hide_border=true" 
-    width="95%"
-  />
-</p>
-
----
-
 # 🏆 Certifications & Learning
 
 - ☁️ AWS Cloud & Networking
